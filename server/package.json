@@ -4,6 +4,7 @@
   "description": "Backend for AI Medical Assistant",
   "main": "server.js",
   "type": "module",
+  "repository": "https://github.com/piyushjethani/medi-ai.git",
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js"
