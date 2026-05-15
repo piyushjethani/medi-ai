@@ -1,0 +1,9 @@
+# Ignore local dependencies
+client/node_modules/
+server/node_modules/
+
+# Ignore build outputs
+client/dist/
+
+# OS files
+.DS_Store
